@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(188, 68, 192, 0.973) !important;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+* {
+  box-sizing: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+#div-main-loading {
+  margin-top: 20%;
+}
+
+/* #div-loading {
+  background-color: white;
+  border-radius: 10px;
+  border: solid 1px cornflowerblue;
+} */
+
+#div-sub-loading {
+  background-color: rgba(255, 166, 0, 0.952);
+  width: 0%;
+  border-radius: 10px;
+}
+
+#txt-pgph-text,
+#txt-loading,
+#txt-vain-text {
+  color: rgba(255, 166, 0, 0.952);
+}
+
+#div-main-loading2 {
+  border: solid 2px white;
+  width: 8%;
+  height: 100px;
+}
